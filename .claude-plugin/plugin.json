@@ -1,0 +1,7 @@
+{
+  "name": "tamagotchi",
+  "version": "0.1.0",
+  "description": "Тамагочи для Claude Code: питомец растёт от потраченных токенов и любых действий, эволюционирует, просит есть, ловит жучков, даёт задания и ачивки",
+  "author": { "name": "Smailkiller" },
+  "types": "./types/index.d.ts"
+}

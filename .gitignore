@@ -1,0 +1,3 @@
+# Типы, которые Claude Code кладёт рядом с модом при каждой загрузке
+.claude-plugin/types/
+node_modules/

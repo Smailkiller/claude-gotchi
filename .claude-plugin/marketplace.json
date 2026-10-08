@@ -1,0 +1,18 @@
+{
+  "name": "claude-gotchi",
+  "owner": { "name": "Smailkiller" },
+  "metadata": {
+    "description": "Тамагочи для Claude Code: пиксельный питомец растёт от ваших токенов и действий"
+  },
+  "plugins": [
+    {
+      "name": "tamagotchi",
+      "source": "./",
+      "description": "Питомец растёт от потраченных токенов и любых действий с Claude, эволюционирует в одну из шести форм, просит есть, ловит жучков, даёт задания дня, достижения и магазин нарядов",
+      "version": "0.1.0",
+      "author": { "name": "Smailkiller" },
+      "homepage": "https://github.com/Smailkiller/claude-gotchi",
+      "keywords": ["tamagotchi", "pet", "gamification", "tokens", "mod"]
+    }
+  ]
+}
